@@ -1,0 +1,17 @@
+[
+  {
+    "entity_id": "law_source_evidence-x01",
+    "label": "甲村",
+    "active": true
+  },
+  {
+    "entity_id": "law_source_evidence-x02",
+    "label": "乙村",
+    "active": true
+  },
+  {
+    "entity_id": "law_source_evidence-x03",
+    "label": "丙村",
+    "active": false
+  }
+]

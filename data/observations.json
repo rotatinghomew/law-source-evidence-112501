@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "law_source_evidence-e01",
+    "entity_id": "law_source_evidence-x01",
+    "value": 12,
+    "quality": "complete"
+  },
+  {
+    "event_id": "law_source_evidence-e02",
+    "entity_id": "law_source_evidence-x02",
+    "value": 8,
+    "quality": "partial"
+  },
+  {
+    "event_id": "law_source_evidence-e04",
+    "entity_id": "law_source_evidence-x03",
+    "value": null,
+    "quality": "missing"
+  }
+]
